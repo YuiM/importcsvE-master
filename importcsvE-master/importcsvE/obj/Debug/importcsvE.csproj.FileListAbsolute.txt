@@ -1,0 +1,9 @@
+C:\Users\mopaq\documents\visual studio 2015\Projects\importcsvE\importcsvE\obj\Debug\importcsvE.Form1.resources
+C:\Users\mopaq\documents\visual studio 2015\Projects\importcsvE\importcsvE\obj\Debug\importcsvE.Properties.Resources.resources
+C:\Users\mopaq\documents\visual studio 2015\Projects\importcsvE\importcsvE\obj\Debug\importcsvE.csproj.GenerateResource.Cache
+C:\Users\mopaq\documents\visual studio 2015\Projects\importcsvE\importcsvE\bin\Debug\importcsvE.exe.config
+C:\Users\mopaq\documents\visual studio 2015\Projects\importcsvE\importcsvE\bin\Debug\importcsvE.exe
+C:\Users\mopaq\documents\visual studio 2015\Projects\importcsvE\importcsvE\bin\Debug\importcsvE.pdb
+C:\Users\mopaq\documents\visual studio 2015\Projects\importcsvE\importcsvE\obj\Debug\importcsvE.exe
+C:\Users\mopaq\documents\visual studio 2015\Projects\importcsvE\importcsvE\obj\Debug\importcsvE.pdb
+C:\Users\mopaq\Documents\Visual Studio 2015\Projects\importcsvE\importcsvE\obj\Debug\importcsvE.csprojResolveAssemblyReference.cache
